@@ -1,0 +1,10 @@
+package-as: ResourceBar
+
+enable-nolib-creation: no
+
+ignore:
+
+- .git
+- .github
+- README.md
+- LICENSE
