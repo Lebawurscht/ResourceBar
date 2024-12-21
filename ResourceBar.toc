@@ -1,0 +1,17 @@
+## Interface: 11505
+## Title: ResourceBar
+## Notes: Simple addon that displays your Health and Resource Bars (Mana, Rage, or Energy) directly beneath your character
+## Author: Lebawurscht
+## Version: 1.0
+## Dependencies: 
+Localization/enUS.lua
+Localization/deDE.lua
+Localization/frFR.lua
+Localization/esES.lua
+Localization/esMX.lua
+Localization/itIT.lua
+Localization/ruRU.lua
+Localization/zhCN.lua
+Localization/zhTW.lua
+Localization/koKR.lua
+ResourceBar.lua
